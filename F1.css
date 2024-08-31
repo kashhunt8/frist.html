@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1 {
+    background-color: blue;
+    color: grey;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+ol,li{
+    display: flex;
+    justify-content: center;
+}
